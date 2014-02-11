@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Gijón</string>
+    <string name="AparcamientoMinusvalidos">Aparcamiendo Minusválidos</string>
+    <string name="AparcamientoMotos">Aparcamiento Motos</string>
+    <string name="Bancos">Bancos</string>
+    <string name="BaresCafes">Bares y Cafés</string>
+    <string name="Bibliotecas">Bibliotecas</string>
+    <string name="CajerosCiudadano">Cajeros Ciudadano</string>
+    <string name="CentrosSanitarios">Centros Sanitarios</string>
+    <string name="Gasolineras">Gasolineras</string>
+    <string name="Hoteles">Hoteles</string>
+    <string name="Ludotecas">Ludotecas</string>
+    <string name="Direccion">Dirección</string>
+    <string name="Horario">Horario</string>
+    <string name="Web">Web</string>
+    <string name="Email">E-mail</string>
+    <string name="Telefono">Teléfono</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_share">Compartir</string>
+    <string name="action_call">Llamar</string>
+    <string name="action_web_site">Web</string>
+    <string name="action_new_email">E-mail</string>
+    <string name="action_about">Acerca de</string>
+    <string name="action_refresh">Actualizar</string>
+    <string name="action_favorite">Favoritos</string>
+    <string name="Administracion">Administración</string>
+    <string name="Albergue">Albergue</string>
+    <string name="Alojamiento">Alojamiento</string>
+    <string name="AlquilerCoche">Alquiler de Coches</string>
+    <string name="Parking">Parking</string>
+    <string name="EdificioTuristico">Edificio turístico</string>
+    <string name="AreaRecreativa">Área recreativa</string>
+    <string name="Wifi">Wifi</string>
+    <string name="Universidad">Universidad</string>
+    <string name="VinosTapas">Vinos y Tapas</string>
+    <string name="Juzgados">Juzgados</string>
+    <string name="Taxis">Taxis</string>
+    <string name="Artesania">Artesanía</string>
+    <string name="AseoPublico">Aseos Públicos</string>
+    <string name="Asociacion">Asociación</string>
+    <string name="AsociacionVecinos">Asociación de Vecinos</string>
+    <string name="Boleras">Boleras</string>
+    <string name="Bomberos">Bomberos</string>
+    <string name="CajeroEmtusa">Cajeros EMTUSA</string>
+    <string name="Webcam">Cámaras Web</string>
+    <string name="Camping">Camping</string>
+    <string name="Futbol">Campos de Fútbol</string>
+    <string name="Golf">Campos de Golf</string>
+    <string name="CasaAldea">Casas de Aldea</string>
+    <string name="Casino">Casinos</string>
+    <string name="Lectura">Centros de Lectura</string>
+    <string name="CentroCultural">Centros Culturales</string>
+    <string name="AtencionCiudadana">Atención Ciudadana</string>
+    <string name="Cine">Cines</string>
+    <string name="Formacion">Centros de Formación</string>
+    <string name="Footing">Circuitos de Footing</string>
+    <string name="Colegio">Colegios</string>
+    <string name="Comercio">Comercios</string>
+    <string name="Confiteria">Confiterías</string>
+    <string name="Polideportivo">Complejos Deportivos</string>
+    <string name="SaludEspecializada">Centros de Salud Especializada</string>
+    <string name="SaludMental">Centros de Salud Mental</string>
+    <string name="SaludPrimaria">Centros de Salud Primaria</string>
+    <string name="ServiciosSociales">Centros de Servicios Sociales</string>
+    <string name="CentroDia">Centros de Día</string>
+    <string name="CruzRoja">Cruz Roja</string>
+    <string name="Policia">Cuerpos de Seguridad</string>
+    <string name="Farmacia">Farmacias</string>
+    <string name="Heladeria">Heladerías</string>
+    <string name="GaleriaArte">Galerías de Arte</string>
+    <string name="GijonBici">Bicis Municipales</string>
+    <string name="Llagar">Llagares</string>
+    <string name="Mirador">Miradores</string>
+    <string name="Parque">Parques y Jardines</string>
+    <string name="Piscina">Piscinas Municipales</string>
+    <string name="Playa">Playas</string>
+    <string name="Pub">Pubs</string>
+    <string name="PuntoLimpio">Puntos Limpios</string>
+    <string name="InfoTurista">Puntos de Información Turística</string>
+    <string name="InfoTuristaAuto">Puntos de Información Turística Automática</string>
+    <string name="CocheElectrico">Puntos Recarga Vehículos Eléctricos</string>
+    <string name="Exposiciones">Salas de Exposiciones</string>
+    <string name="Teatro">Teatros</string>
+    <string name="TiendaGastro">Tiendas Gastronómicas</string>
+    <string name="TiendaGourmet">Tiendas Gourmet</string>
+    <string name="Trafico">Tráfico</string>
+    <string-array name="Categorias">
+        <item >A</item>
+        <item >B</item>
+        <item >C</item>
+        <item >E</item>
+        <item >F</item>
+        <item >G</item>
+        <item >H</item>
+        <item >I</item>
+        <item >J</item>
+        <item >L</item>
+        <item >M</item>
+        <item >P</item>
+        <item >S</item>
+        <item >T</item>
+        <item >U</item>
+        <item >V</item>
+        <item >W</item>
+    </string-array>
+</resources>
